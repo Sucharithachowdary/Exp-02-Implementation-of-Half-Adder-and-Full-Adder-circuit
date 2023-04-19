@@ -72,7 +72,7 @@ endmodule
 
 ![232230950-8135a8b3-31fa-4b28-87a4-0ffad4e56872](https://user-images.githubusercontent.com/94166007/233142305-59c4bf0c-1ad5-481f-83a1-663f4dbadb98.png)
 
-###TIMING DIAGRAM
+### TIMING DIAGRAM
 ![232230950-8135a8b3-31fa-4b28-87a4-0ffad4e56872](https://user-images.githubusercontent.com/94166007/233142391-03194506-e424-4895-a35a-580948990a82.png)
 
 
