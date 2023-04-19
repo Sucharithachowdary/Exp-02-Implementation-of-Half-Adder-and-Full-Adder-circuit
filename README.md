@@ -59,10 +59,10 @@ endmodule
 ###TRUTH TABLE
 ![232230888-3439e1dc-17e7-4223-99c3-caa6fdbfbd91](https://user-images.githubusercontent.com/94166007/233142013-c80c5910-80d2-4c9a-8d55-21bd9ff1008a.png)
 
-### RTL
+###RTL
 ![232230895-623408fa-19ed-4e0c-a232-2198d7283eab](https://user-images.githubusercontent.com/94166007/233142056-fc3ba256-32b6-454f-8a2d-a2df898d7357.png)
 
-### TIMING DIAGRAM
+###TIMING DIAGRAM
 ![232230907-aee7a28a-16a1-45c0-aef2-4498d9df097e](https://user-images.githubusercontent.com/94166007/233142077-07188412-2089-435d-9c67-a03f94043cd6.png)
 
 ###FULL ADDER
