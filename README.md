@@ -43,7 +43,14 @@ RegisterNumber:  212221240021
 */
 ### HALF ADDER:
 ~~~
-module ex2(A,B,Cin,S,Cout); input A,B,Cin; output S,Cout; wire D,E,F; xor(D,A,B); xor(S,D,Cin); and(E,Cin,D); and(F,A,B); or(Cout,E,F); endmodule
+module ex2(A,B,Cin,S,Cout); 
+input A,B,Cin; output S,Cout; 
+wire D,E,F; xor(D,A,B);
+xor(S,D,Cin); 
+and(E,Cin,D);
+and(F,A,B); 
+or(Cout,E,F);
+endmodule
 ~~~
 ### FULL ADDER
 ~~~
