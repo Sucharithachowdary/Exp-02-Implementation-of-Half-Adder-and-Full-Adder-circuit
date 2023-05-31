@@ -73,9 +73,8 @@ endmodule
 ### RTL TIMING DIAGRAM
 ### HALF ADDER
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o3.png)
-
 ### FULL ADDER
-![232230923-248fa731-31ca-4b07-b76d-c0c4c8b4fa49](https://user-images.githubusercontent.com/94166007/233142156-b794ba87-9f3b-4947-a72a-4625c8aeebd6.png)
+![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o4.png)
 
 ### RTL
 
