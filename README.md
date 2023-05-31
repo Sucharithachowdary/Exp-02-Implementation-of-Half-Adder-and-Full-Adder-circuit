@@ -64,6 +64,8 @@ and(carry,a,b);
 endmodule
 ~~~
 ### Output:
+### logic symbol
+![output](
 ### HALF ADDER
 ### TRUTH TABLE
 ![232230888-3439e1dc-17e7-4223-99c3-caa6fdbfbd91](https://user-images.githubusercontent.com/94166007/233142013-c80c5910-80d2-4c9a-8d55-21bd9ff1008a.png)
