@@ -67,8 +67,7 @@ endmodule
 ### logic symbol
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/logic%20symbol.png)
 ### HALF ADDER
-### TRUTH TABLE
-![232230888-3439e1dc-17e7-4223-99c3-caa6fdbfbd91](https://user-images.githubusercontent.com/94166007/233142013-c80c5910-80d2-4c9a-8d55-21bd9ff1008a.png)
+![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o1.png)
 
 ### RTL
 ![232230895-623408fa-19ed-4e0c-a232-2198d7283eab](https://user-images.githubusercontent.com/94166007/233142056-fc3ba256-32b6-454f-8a2d-a2df898d7357.png)
