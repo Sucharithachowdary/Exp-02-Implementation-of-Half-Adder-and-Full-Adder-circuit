@@ -75,15 +75,10 @@ endmodule
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o3.png)
 ### FULL ADDER
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o4.png)
-
-### RTL
-
-![232230950-8135a8b3-31fa-4b28-87a4-0ffad4e56872](https://user-images.githubusercontent.com/94166007/233142305-59c4bf0c-1ad5-481f-83a1-663f4dbadb98.png)
-
-### TIMING DIAGRAM
-![232230950-8135a8b3-31fa-4b28-87a4-0ffad4e56872](https://user-images.githubusercontent.com/94166007/233142391-03194506-e424-4895-a35a-580948990a82.png)
-
-
-
+###TRUTH TABLE
+### HALF ADDER
+![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o5.png)
+### FULL ADDER
+![output](https://user-images.githubusercontent.com/94166007/233142391-03194506-e424-4895-a35a-580948990a82.png)
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
