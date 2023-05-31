@@ -63,16 +63,16 @@ xor(sum,a,b);
 and(carry,a,b);
 endmodule
 ~~~
-### Output:
+### RTL Realisation Output:
 ### logic symbol
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/logic%20symbol.png)
 ### HALF ADDER
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o1.png)
 ### FULL ADDER
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o2.png)
-
-### TIMING DIAGRAM
-![232230907-aee7a28a-16a1-45c0-aef2-4498d9df097e](https://user-images.githubusercontent.com/94166007/233142077-07188412-2089-435d-9c67-a03f94043cd6.png)
+### RTL TIMING DIAGRAM
+### HALF ADDER
+![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o3.png)
 
 ### FULL ADDER
 ![232230923-248fa731-31ca-4b07-b76d-c0c4c8b4fa49](https://user-images.githubusercontent.com/94166007/233142156-b794ba87-9f3b-4947-a72a-4625c8aeebd6.png)
