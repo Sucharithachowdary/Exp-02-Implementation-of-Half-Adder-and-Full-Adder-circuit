@@ -68,9 +68,8 @@ endmodule
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/logic%20symbol.png)
 ### HALF ADDER
 ![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o1.png)
-
-### RTL
-![232230895-623408fa-19ed-4e0c-a232-2198d7283eab](https://user-images.githubusercontent.com/94166007/233142056-fc3ba256-32b6-454f-8a2d-a2df898d7357.png)
+### FULL ADDER
+![output](https://github.com/Sucharithachowdary/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/de%20o2.png)
 
 ### TIMING DIAGRAM
 ![232230907-aee7a28a-16a1-45c0-aef2-4498d9df097e](https://user-images.githubusercontent.com/94166007/233142077-07188412-2089-435d-9c67-a03f94043cd6.png)
